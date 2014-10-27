@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dextor", "Dextor\Dextor.csproj", "{2DBD592D-F9FB-45B1-A308-2EF68DEE42F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dextor.Tests", "Dextor.Tests\Dextor.Tests.csproj", "{50B70DE6-86BF-4FB8-B560-8DE38BCD7C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBD592D-F9FB-45B1-A308-2EF68DEE42F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBD592D-F9FB-45B1-A308-2EF68DEE42F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBD592D-F9FB-45B1-A308-2EF68DEE42F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBD592D-F9FB-45B1-A308-2EF68DEE42F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B70DE6-86BF-4FB8-B560-8DE38BCD7C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B70DE6-86BF-4FB8-B560-8DE38BCD7C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B70DE6-86BF-4FB8-B560-8DE38BCD7C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B70DE6-86BF-4FB8-B560-8DE38BCD7C38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
